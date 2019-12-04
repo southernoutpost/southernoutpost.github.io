@@ -1,13 +1,8 @@
 ---
 layout: post
-title: Testing 123
-published: true
-categories:
-  - blah
-  - stuff
-tags:
-  - blah
-  - more
+title: testing 123
+categories: [blog, travel]
+tags: [hot, summer]
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
