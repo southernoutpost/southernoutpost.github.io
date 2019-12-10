@@ -5,7 +5,7 @@ categories: [music]
 tags: [electro]
 ---
 
-[Clone Aqualung](https://clone.nl/all/label/Clone%20Aqualung%20Series?sort=datum&order=desc) have unearthed some previously unreleased / unheard music from one of Drexciya's offshoot projects.
+[Clone Aqualung](https://clone.nl/all/label/Clone%20Aqualung%20Series?sort=datum&order=desc) have unearthed some previously unreleased / unheard music from one of Drexciya's offshoot projects, Abstract Thought.
 
 Buy on sight - [Clone](https://clone.nl/item58621.html)
 
