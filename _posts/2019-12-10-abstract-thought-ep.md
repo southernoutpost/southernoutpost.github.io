@@ -4,12 +4,6 @@ title: Abstract Thought Ep.
 categories: [music]
 tags: [electro]
 ---
-{% if post.content contains site.excerpt_separator %}
-{{ post.excerpt }}
-<a href="{{ post.url }}">Read more</a>
-{% else %}
-{{ post.content }}
-{% endif %}
 
 [Clone Aqualung](https://clone.nl/all/label/Clone%20Aqualung%20Series?sort=datum&order=desc) have unearthed some previously unreleased/unheard music from one of Drexciya's offshoot projects.
 
