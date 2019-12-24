@@ -3,3 +3,11 @@ layout: page
 title: Releases
 permalink: /releases/
 ---
+
+<ul>
+{% for release in site.data.catalog %}
+  <li>{{ release.releases.title }}</li>
+  <li>{{ release.releases.artist }}</li>
+
+{% endfor %}
+</ul>
