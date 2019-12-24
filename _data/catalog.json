@@ -1,0 +1,148 @@
+{
+  "releases": [
+    {
+      "format": "12\" EP",
+      "artist": "Various",
+      "catno": "SO-001",
+      "year": 1999,
+      "title": "Setting The Agenda E.P.",
+      "resource_url": "https://api.discogs.com/releases/19118",
+      "id": 19118
+    },
+    {
+      "format": "12\" EP",
+      "artist": "Various",
+      "catno": "SO-002",
+      "year": 2000,
+      "title": "Boogie Down 313 E.P.",
+      "resource_url": "https://api.discogs.com/releases/19119",
+      "id": 19119
+    },
+    {
+      "format": "12\"",
+      "artist": "Agent Patrick & DATA",
+      "catno": "SO-002.5",
+      "year": 2002,
+      "title": "Boogie Down Detroit Remixes",
+      "resource_url": "https://api.discogs.com/releases/25014",
+      "id": 25014
+    },
+    {
+      "format": "12\" EP",
+      "artist": "ShapeShiftr & The Sentinel",
+      "catno": "SO-004",
+      "year": 2001,
+      "title": "+612 EP",
+      "resource_url": "https://api.discogs.com/releases/19117",
+      "id": 19117
+    },
+    {
+      "format": "12\" EP",
+      "artist": "DJ K1",
+      "catno": "SO-005",
+      "year": 2002,
+      "title": "From Detroit To The Outback E.P.",
+      "resource_url": "https://api.discogs.com/releases/81683",
+      "id": 81683
+    },
+    {
+      "format": "12\" EP, W/Lbl",
+      "artist": "Shadow People",
+      "catno": "SO-006",
+      "year": 2002,
+      "title": "Secret Society EP",
+      "resource_url": "https://api.discogs.com/releases/1115158",
+      "id": 1115158
+    },
+    {
+      "format": "12\" EP",
+      "artist": "Shadow People",
+      "catno": "SO-006",
+      "year": 2002,
+      "title": "Secret Society EP",
+      "resource_url": "https://api.discogs.com/releases/85819",
+      "id": 85819
+    },
+    {
+      "format": "12\" EP",
+      "artist": "Southern Outpost",
+      "catno": "SO-008",
+      "year": 2003,
+      "title": "Source Code EP",
+      "resource_url": "https://api.discogs.com/releases/201528",
+      "id": 201528
+    },
+    {
+      "format": "12\" EP",
+      "artist": "The Sentinel & Miss Memory",
+      "catno": "SO-009",
+      "year": 2005,
+      "title": "Electric Shock EP",
+      "resource_url": "https://api.discogs.com/releases/454579",
+      "id": 454579
+    },
+    {
+      "format": "12\" EP",
+      "artist": "The Sentinel",
+      "catno": "SO-010",
+      "year": 2006,
+      "title": "Trust No One EP",
+      "resource_url": "https://api.discogs.com/releases/634711",
+      "id": 634711
+    },
+    {
+      "format": "12\" EP",
+      "artist": "dynArec",
+      "catno": "SO-011",
+      "year": 2006,
+      "title": "Yellow Trigger EP",
+      "resource_url": "https://api.discogs.com/releases/652360",
+      "id": 652360
+    },
+    {
+      "format": "12\" EP",
+      "artist": "Scape One",
+      "catno": "SO-012",
+      "year": 2006,
+      "title": "Unstablebeatprotoncharacteristics EP",
+      "resource_url": "https://api.discogs.com/releases/808434",
+      "id": 808434
+    },
+    {
+      "format": "12\" EP",
+      "artist": "Dcast Dynamics",
+      "catno": "SO-014",
+      "year": 2006,
+      "title": "Trans-Migration EP",
+      "resource_url": "https://api.discogs.com/releases/820844",
+      "id": 820844
+    },
+    {
+      "format": "12\" EP",
+      "artist": "The Sentinel & Sol37",
+      "catno": "SO-015",
+      "year": 2019,
+      "title": "THX-113808 ep",
+      "resource_url": "https://api.discogs.com/releases/13554548",
+      "id": 13554548
+    },
+    {
+      "format": "Cassette",
+      "artist": "Bvdub",
+      "catno": "SOSP-001",
+      "year": 2008,
+      "title": "Monuments To Oblivion",
+      "resource_url": "https://api.discogs.com/releases/1314022",
+      "id": 1314022
+    },
+    {
+      "format": "12\"",
+      "artist": "Bvdub",
+      "catno": "SOSP-001.5",
+      "year": 2008,
+      "title": "Monuments To Oblivion",
+      "resource_url": "https://api.discogs.com/releases/1314027",
+      "id": 1314027
+    }
+  ]
+}
