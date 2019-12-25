@@ -5,9 +5,9 @@ permalink: /releases/
 ---
 
 <ul>
-{% for release in site.data.catalog %}
-  <li>{{ releases.title }}</li>
-  <li>{{ releases.artist }}</li>
+{% for release in site.data.catalog.releases %}
+  <li>{{ release.title }}</li>
+  <li>{{ release.artist }}</li>
 
 {% endfor %}
 </ul>
