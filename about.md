@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![SO-004](/images/so004.jpg)
+![SO-004](/images/so004_400.jpg)
 
 Southern Outpost was formed in October 1998 by Patrick Wacher, Philip Chan & Daniel Horth, 3 DJ's active in Sydney's underground electro/techno scene.
 
